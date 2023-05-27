@@ -8,3 +8,10 @@ A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a s
 A segunda empresa, Hermex, necessita analisar dados sobre a logística das entregas do seu negócio.
 
 A terceira empresa, Meteora, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **BI Challenge - Semana 1 - Campanha de Marketing**
+| :label: Tecnologias | PowerBI
+| :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiMjEzNDRlMzEtZjRiNi00ZjBiLWE5NTktYTZlZTU3OTgxNmMzIiwidCI6Ijc1NTBkNzQ2LTVmYjEtNGY1ZS04MzBiLWRlMzlkOGE5YTNmNyJ9&pageName=ReportSection
+| :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
