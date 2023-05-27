@@ -8,3 +8,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Excel
 - PowerBI
 - Power Query/DAX
+
+### 🔗 Link do Dashboard
+
+[Challenge_BI_Case-Marketing](https://app.powerbi.com/view?r=eyJrIjoiMjEzNDRlMzEtZjRiNi00ZjBiLWE5NTktYTZlZTU3OTgxNmMzIiwidCI6Ijc1NTBkNzQ2LTVmYjEtNGY1ZS04MzBiLWRlMzlkOGE5YTNmNyJ9)
