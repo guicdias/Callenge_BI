@@ -9,7 +9,7 @@ A segunda empresa, Hermex, necessita analisar dados sobre a logística das entre
 
 A terceira empresa, Meteora, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário.
 
-| :sparkles: Nome        | **BI Challenge - Semana 1 - Campanha de Marketing**
+| :sparkles: Nome        | **BI Challenge - Semana 1 - Campanha de Marketing** |
 | :label: Tecnologias | PowerBI
 | :rocket: URL         | ...
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
