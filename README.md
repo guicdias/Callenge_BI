@@ -1,4 +1,4 @@
-# ChallengeBI
+# Challenge BI 3a edição
 Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
 
 Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para cada uma das empresas.
