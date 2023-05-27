@@ -15,8 +15,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 📸 Imagens do Dashboard
 
+Desempenho
 ![](https://github.com/guicdias/Callenge_BI/blob/main/Page-1_Desempenho.png)
 
+Visualizações
 ![](https://github.com/guicdias/Callenge_BI/blob/main/Page-2_Visualizacoes.png)
 
+Usuários
 ![](https://github.com/guicdias/Callenge_BI/blob/main/Page-3_Usuarios.png)
