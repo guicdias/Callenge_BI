@@ -1,16 +1,2 @@
-# Challenge BI 3a edição
-Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
-
-Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para cada uma das empresas.
-
-A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a sua campanha de marketing durante o ano que a campanha foi realizada.
-
-A segunda empresa, Hermex, necessita analisar dados sobre a logística das entregas do seu negócio.
-
-A terceira empresa, Meteora, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário.
-
-| :placard: | **BI Challenge - Semana 1 - Campanha de Marketing** 
-| -------------  | --- |
-| :label: Ferramentas         | PowerBI
-| :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiMjEzNDRlMzEtZjRiNi00ZjBiLWE5NTktYTZlZTU3OTgxNmMzIiwidCI6Ijc1NTBkNzQ2LTVmYjEtNGY1ZS04MzBiLWRlMzlkOGE5YTNmNyJ9&pageName=ReportSection
-| :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
+<h1 align="center">Challenge BI Alura 3a Edição</h1>
+<p align="center">Desafio de 3 semanas onde desenvolveremos dashboards que respondam as questões de 3 empresas fictícias.</p>
